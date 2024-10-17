@@ -1,0 +1,112 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto; /* Asegura que todo el cuerpo de la página permita el scroll */
+    font-family: Arial, sans-serif;
+    background-color: #282c34;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ff6f61;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    max-width: 400px;
+}
+
+.container {
+    text-align: center;
+    padding: 2rem;
+}
+
+/* Estilos para las cards */
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background-color: #3a3f47;
+    border: 1px solid #ff6f61;
+    border-radius: 15px;
+    padding: 20px;
+    width: 150px;
+    height: 250px; /* Establece una altura fija */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Asegura que los elementos dentro de la card se distribuyan bien */
+}
+
+.card img {
+    width: 100%;
+    height: auto; /* Mantiene la proporción de la imagen */
+    object-fit: contain; /* Asegura que la imagen se ajuste sin distorsionarse */
+    max-height: 120px; /* Limita la altura máxima de la imagen */
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 20px;
+    color: #ff6f61;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 14px;
+    color: #d1d1d1;
+}
+
+.card:hover {
+    transform: scale(1.05); /* Animación de agrandar al hacer hover */
+    background-color: #444c56;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Sombra más pronunciada en hover */
+}
+
+.card:hover img {
+    transform: scale(1.1); /* Animación de agrandar imagen al hacer hover */
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #3a3f47;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+}
+
+.modal img {
+    width: 100%;
+    border-radius: 10px;
+}

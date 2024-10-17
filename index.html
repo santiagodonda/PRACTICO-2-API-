@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiki de Warhammer 40k</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Wiki de Warhammer 40k</h1>
+        <input type="text" id="search" placeholder="Buscar...">
+        <div id="cards-container" class="cards-container"></div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span id="close-btn" class="close">&times;</span>
+            <h2 id="modal-name"></h2>
+            <img id="modal-image" src="" alt="">
+            <p><strong>ID:</strong> <span id="modal-id"></span></p>
+            <p><strong>Facción:</strong> <span id="modal-faction"></span></p>
+            <p id="modal-lore"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+

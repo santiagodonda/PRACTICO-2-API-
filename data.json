@@ -1,0 +1,395 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel El'Jonsonn",
+        "faction": "Imperio de la humanidad(primarca de los Angeles Oscuros)",
+        "lore": "Lion El'Jonson fue encontrado en el mundo salvaje de Caliban, donde creció entre caballeros guerreros que luchaban contra monstruosas criaturas. Su nombre: El León, refleja su naturaleza solitaria, astuta y formidable. A diferencia de otros primarcas, Jonson era reservado y calculador, conocido por su capacidad estratégica y su tendencia a mantener secretos, lo que lo llevó a desarrollar una relación de desconfianza con otros líderes.",
+        "image": "https://i.pinimg.com/736x/99/25/22/992522f1e6a51aa67eb369fdff984159.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Fulgrim",
+        "faction": "fuerzas del caos (primarca traidor de los Hijos del Emperador)",
+        "lore": "Fulgrim fue encontrado en el planeta Chemos, un mundo al borde del colapso debido a la escasez de recursos. Desde joven, mostró una habilidad excepcional para mejorar cualquier cosa que tocara, desde tecnología hasta la organización social. Gracias a su liderazgo, Chemos no solo sobrevivió, sino que prosperó. Fulgrim se destacó por su obsesión con la perfección en todas las formas posibles: la belleza, el arte, la guerra y la humanidad misma. Como primarca, Fulgrim era un guerrero magnífico, dotado de una estética refinada y una búsqueda constante de la excelencia. Bajo su mando, los Hijos del Emperador se convirtieron en una legión famosa por su destreza en combate y su elegancia en la guerra. Fulgrim creía firmemente que su legión era la encarnación de la perfección, tanto en la guerra como en la cultura.",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a58e327c-dd1c-49dd-9ff0-1a6113af18e8/width=450/00052-4159247576.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Perturabo",
+        "faction": "fuerzas del caos (primarca traidor de los Guerreros de Hierro)",
+        "lore": "Perturabo fue encontrado en el planeta de Olympia, un mundo dividido por estados feudales en constante conflicto. Criado por el gobernante de uno de estos estados, desde temprana edad demostró una mente extraordinaria para la ingeniería, la construcción y la estrategia militar. Sin embargo, también mostró un temperamento frío y calculador, centrado en la eficiencia y el deber, con poca paciencia para la mediocridad o la debilidad. Desde su infancia, Perturabo fue distante, desconfiado y con una creciente sensación de desapego hacia quienes lo rodeaban. Nunca encajó completamente ni en su mundo ni con su familia adoptiva, y esto alimentó un profundo resentimiento que marcaría su vida. A diferencia de otros primarcas, que formaban lazos fuertes con sus hermanos o con los habitantes de sus mundos natales, Perturabo se mantuvo reservado, y su perspectiva pragmática lo hizo sentirse infravalorado.",
+        "image": "https://artwork.40k.gallery/wp-content/uploads/2024/04/Perturabo-768x980.jpg.webp"
+    },
+    {
+        "id": "4",
+        "name": "Jaghatai Khan",
+        "faction": "Imperio de la humanidad(Primarca de los Cicatrizes Blancas)",
+        "lore": "Jaghatai Khan fue encontrado en el planeta Mundus Planus, también conocido como Chogoris, un mundo de vastas estepas donde diversas tribus nómadas libraban continuas guerras entre ellas. Criado por la tribu guerrera de los Talskars, el joven Khan se destacó rápidamente como un guerrero y líder formidable, adoptando un código de honor centrado en la libertad y la independencia. Bajo su mando, los Talskars derrotaron a todos sus rivales, unificando las tribus del planeta en una era de prosperidad y paz. A diferencia de otros primarcas, Jaghatai Khan tenía un espíritu libre y salvaje. Era conocido por su amor por la velocidad y la guerra de guerrillas, en contraste con la estrategia de asedio o la batalla directa que otros primarcas preferían. También valoraba la autonomía y el respeto mutuo, tanto en su legión como entre sus subordinados. Sin embargo, detrás de su exterior calmado y sereno, había un guerrero implacable que no vacilaba ante la violencia.",
+        "image": "https://warhammeruniverse.com/wp-content/uploads/2024/07/00077-2284780119.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "Leman Russ",
+        "faction": "Imperio de la humanidad(Primarca de los Lobos Espaciales)",
+        "lore": "Leman Russ fue encontrado en el planeta Fenris, un mundo helado y brutal donde la vida era dura y la supervivencia, una lucha diaria. Criado por una manada de lobos después de llegar al planeta, Russ creció como una bestia, aprendiendo las leyes de la naturaleza antes de ser encontrado por una tribu humana. Su naturaleza salvaje lo hizo destacar, y pronto se convirtió en el líder de su tribu, forjando una leyenda en Fenris como un guerrero imbatible. Russ es descrito como un hombre enorme, con colmillos y una melena de cabello salvaje, lo que refuerza su imagen como una figura mítica entre los suyos. Su personalidad es feroz, valiente y directa, pero también honorable. Aunque es un guerrero brutal en el campo de batalla, fuera de él es un hombre de profundas lealtades y convicciones. A pesar de su salvajismo, Russ tenía un profundo sentido de la justicia y la lealtad, y veía al Emperador como su único y verdadero señor. Entre sus hermanos primarcas, Russ era conocido por su independencia, su naturaleza tempestuosa y su rivalidad con algunos de ellos, en particular Magnus el Rojo, con quien desarrolló una enemistad significativa",
+        "image": "https://i.pinimg.com/736x/5a/3d/05/5a3d05c7694ab58f54b02f603eef5ccc.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Rogal Dorn",
+        "faction": "Imperio de la humanidad(Primarca de los Puños Imperiales)",
+        "lore": "Rogal Dorn fue encontrado en el planeta helado de Inwit, en el sistema del mismo nombre. Criado por los Clan Ice Caste, un grupo de humanos que sobrevivían en las duras condiciones de Inwit, Dorn se destacó rápidamente como un líder natural. Los clanes valoraban la fortaleza, la resistencia y el deber, todas características que Rogal Dorn adoptó y perfeccionó a lo largo de su vida. Era un hombre pragmático, directo y austero, valorando la eficiencia y el deber sobre la gloria o el poder. Dorn es a menudo descrito como inflexible, una cualidad que lo definía tanto en la guerra como en su vida personal. Era famoso por su rectitud y devoción al Imperio y al Emperador, a quien veía no solo como un gobernante, sino como un ideal a seguir. Esta visión estricta del deber y la perfección a veces lo ponía en conflicto con otros primarcas, pero también lo convertía en una figura de confianza indiscutible en tiempos de crisis.",
+        "image": "https://i.pinimg.com/736x/a9/db/0c/a9db0c98fd17674e2552e3fdc34c5e25.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Sanguinius",
+        "faction": "Imperio de la humanidad(Primarca de los Angeles Sangrientos)",
+        "lore": "Sanguinius fue encontrado en el planeta Baal Secundus, un mundo post-apocalíptico devastado por la radiación. Nació con alas emplumadas blancas como un signo físico de su diferencia con el resto de los humanos. A pesar de su apariencia divina, Sanguinius era un guerrero feroz que, desde temprana edad, lideró a las tribus humanas de Baal en su lucha por la supervivencia contra mutantes y otros horrores. Gracias a su liderazgo y habilidades sobrenaturales, las tribus no solo sobrevivieron, sino que prosperaron. De carácter noble y compasivo, Sanguinius fue un primarca querido por todos los que lo conocieron. Era conocido por su amabilidad, sabiduría y sentido del sacrificio, y a menudo se le describía como un ser de inmensa belleza física y espiritual. Sin embargo, detrás de esa fachada radiante, Sanguinius llevaba una profunda carga: su capacidad psíquica le permitía vislumbrar el futuro, y vio con claridad que estaba destinado a morir en la batalla contra su hermano traidor, Horus.",
+        "image": "https://warhammeruniverse.com/wp-content/uploads/2024/04/Sanguin5.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Vulkan",
+        "faction": "Imperio de la humanidad (primarca de los Salamandras)",
+        "lore": "Vulkan es el hijo de la forja de Nocturne, donde su pueblo, los Salamandras, se dedicaba a la herrería y la metalurgia. A diferencia de otros Primarcas, Vulkan fue encontrado por el Emperador en su planeta natal, donde creció rodeado de fuego y lava, lo que influyó en su desarrollo y habilidades. Se le considera un maestro herrero y un experto en el uso del fuego, capaz de crear armas y armaduras extraordinarias. La personalidad de Vulkan es notablemente diferente a la de otros Primarcas. Es conocido por su compasión, empatía y un profundo sentido de justicia. A menudo se le describe como un líder carismático que se preocupa profundamente por sus soldados y la humanidad en general. Vulkan se esfuerza por proteger a los inocentes y busca la redención y el perdón, incluso para aquellos que han cometido errores. Esta naturaleza benevolente contrasta con la brutalidad que a menudo caracteriza a otros Primarcas.Además, Vulkan es conocido por su resiliencia y determinación. A pesar de los desafíos que enfrenta, nunca se rinde y siempre lucha por lo que cree que es correcto. Su conexión con el fuego y su habilidad para resistir el calor extremo también simbolizan su resistencia ante la adversidad.",
+        "image": "https://artwork.40k.gallery/wp-content/uploads/2022/11/vitaly-perevoshikov-vulkan-1-768x1104.jpg.webp"
+    },
+    {
+        "id": "9",
+        "name": "Roboute Guilliman",
+        "faction": "Imperio de la humanidad(Primarca de los Ultramarines)",
+        "lore": "Guilliman fue creado por el Emperador de la Humanidad como parte de su proyecto para unificar a la humanidad en la Gran Cruzada. Desde joven, mostró un talento excepcional para la administración y la estrategia militar. Al llegar a Macragge, se convirtió en un líder natural, unificando a su pueblo y estableciendo un orden que le permitió prosperar. Su planeta natal, con sus ciudades bien organizadas y su cultura centrada en la disciplina, reflejaba su propia filosofía de gobierno. La personalidad de Roboute Guilliman es una mezcla de pragmatismo y idealismo. Es un líder carismático que valora la lealtad y el deber, y se esfuerza por mantener la moral y la cohesión entre sus tropas. Su enfoque en la lógica y la razón lo convierte en un estratega formidable, capaz de tomar decisiones difíciles en momentos de crisis.es conocido por su deseo de restaurar el Imperio y su visión de un futuro mejor para la humanidad. A diferencia de algunos de sus hermanos Primarcas, que a menudo se dejaban llevar por la pasión o la ira, Guilliman se guía por principios y valores. Esto lo convierte en un símbolo de esperanza y estabilidad en un universo caótico.",
+        "image": "https://warhammeruniverse.com/wp-content/uploads/2024/04/00001-web.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Ferrus Manus",
+        "faction": "Imperio de la humanidad (primarca de los Manos De Hierro)",
+        "lore": "Ferrus Manus fue creado por el Emperador de la Humanidad y se destacó desde joven por su habilidad en la metalurgia y la ingeniería. Su planeta natal, Medusa, es un mundo inhóspito y rocoso, donde los desafíos del entorno forjaron su carácter fuerte y resistente. A lo largo de su vida, Ferrus desarrolló una obsesión por la perfección técnica y la mejora de la humanidad a través de la tecnología. Su nombre, que significa 'Manos de Hierro', proviene de sus brazos biónicos, que simbolizan su dedicación a la fusión entre el hombre y la máquina. s conocido por su determinación y su enfoque en la lógica y la razón, a menudo priorizando la eficiencia sobre la emoción. Ferrus es un líder firme y autoritario, pero también es profundamente leal a sus hermanos y a su Legión. Su obsesión por la perfección a veces lo lleva a ser inflexible, lo que puede generar tensiones con otros Primarcas que valoran la emoción y la humanidad.",        
+        "image": "https://i.ibb.co/2337dYq/ferrus-manus-2.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Mortarion",
+        "faction": "fuerzas del caos (primarca traidor de la Guardia de la Muerte )",
+        "lore": "Mortarion fue creado por el Emperador de la Humanidad y se crió en un mundo sombrío y tóxico, donde la vida era dura y la muerte omnipresente. Barbarus estaba cubierto por una densa niebla y habitado por criaturas mortales, lo que forjó su carácter fuerte y resistente. Desde joven, Mortarion se convirtió en un líder entre los sobrevivientes de su planeta, luchando contra los tiranos y buscando liberar a su pueblo de la opresión. Esta experiencia le otorgó una profunda comprensión del sufrimiento humano y la fragilidad de la vida. s conocido por su determinación y su deseo de proteger a los débiles, pero también por su amargura y desdén hacia aquellos que consideran la muerte como algo que se debe temer. A menudo se le describe como un guerrero implacable, que enfrenta la muerte con valentía y que busca la fortaleza en la adversidad. es un ferviente defensor de la resistencia y la superación del sufrimiento, lo que lo llevó a una conexión con las fuerzas de la plaga y la muerte. Esta relación se intensificó tras su caída al Caos, donde se convirtió en el Primarca de Nurgle, el dios de la plaga y la putrefacción. A pesar de su transformación, Mortarion sigue siendo un líder carismático, aunque su visión de la vida y la muerte se ha distorsionado.",
+        "image": "https://i.pinimg.com/736x/71/57/6b/71576b404f6a91ac391f97b9416d2943.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Magnus el Rojo",
+        "faction": "fuerzas del caos (primarca traidor de los 1000 Hijos)",
+        "lore": "Magnus fue creado por el Emperador de la Humanidad y se destacó desde joven por su extraordinario talento psíquico. Prospero, su planeta natal, era un mundo de grandes bibliotecas y centros de aprendizaje, donde la búsqueda del conocimiento y la sabiduría era primordial. Desde su infancia, Magnus mostró una afinidad excepcional por las artes psíquicas, lo que le permitió comunicarse con su padre y comprender el vasto universo que lo rodeaba.  Es un ser profundamente intelectual, impulsado por un deseo insaciable de conocimiento y comprensión. Su curiosidad lo llevó a explorar los límites de la psíquica, lo que a menudo lo colocaba en conflicto con otros Primarcas y con el propio Emperador, quien temía los riesgos del uso excesivo de poderes psíquicos. s conocido por su empatía y su deseo de proteger a sus hermanos, especialmente a los miembros de su Legión. Sin embargo, su búsqueda de poder y conocimiento lo llevó a desobedecer órdenes del Emperador, lo que resultó en la caída de Prospero y su eventual transformación en un servidor del Caos, específicamente de Tzeentch, el dios de la mutación y el cambio. ",
+        "image":"https://i.ibb.co/CBvHf1k/magnus-el-rojo.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Angron el saqueador",
+        "faction": "fuerzas del caos (primarca traidor de los Devoradores de Mundos )",
+        "lore": "Angron fue creado por el Emperador de la Humanidad y fue encontrado en el planeta Nuceria, un mundo donde la violencia y la guerra eran parte de la vida cotidiana. Desde joven, Angron fue un gladiador, forzado a luchar en combates a muerte para el entretenimiento de otros. Esta experiencia lo llenó de rabia y odio hacia sus opresores. Durante su tiempo como gladiador, Angron fue implantado con un dispositivo llamado 'implantes de la ira', que aumentaba su agresividad y fuerza, pero también lo privaba de su libre albedrío. Esta modificación lo convirtió en una máquina de matar, incapaz de controlar su furia.  Es conocido por su naturaleza brutal y su falta de compasión, lo que lo convierte en un líder temido tanto por sus enemigos como por sus propios soldados. Su deseo de venganza y su sed de sangre son características definitorias, y a menudo actúa impulsivamente, guiado por sus instintos más primarios. A pesar de su naturaleza violenta, Angron también es un personaje trágico. Su historia está llena de sufrimiento y pérdida, y su lucha por encontrar un propósito y significado en medio de la brutalidad es un tema recurrente. Su conexión con el Caos, especialmente con Khorne, el dios de la guerra y la sangre, refleja su transformación en un ser de pura violencia.",
+        "image": "https://i.pinimg.com/736x/41/f8/bb/41f8bbb1591456fc556fff3f873cd19d.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Konrad Curze",
+        "faction": "fuerzas del caos (primarca traidor de los Amos de la Noche)",
+        "lore": "Konrad Curze fue creado por el Emperador de la Humanidad y fue encontrado en el planeta Nostramo, un mundo sumido en la oscuridad, la criminalidad y la decadencia. Desde joven, Curze experimentó una vida llena de violencia y sufrimiento, lo que moldeó su carácter y su visión del mundo. A diferencia de otros Primarcas, Curze fue consciente de su destino y de los horrores que vendrían, lo que le otorgó una perspectiva única sobre la vida y la muerte. Es un ser atormentado que se siente atrapado entre su deseo de traer orden al caos y su naturaleza violenta. Curze es conocido por su capacidad de ver el futuro y prever los eventos antes de que ocurran, lo que lo lleva a una desesperación constante sobre el destino inevitable de la humanidad. Es un ser atormentado que se siente atrapado entre su deseo de traer orden al caos y su naturaleza violenta. Curze es conocido por su capacidad de ver el futuro y prever los eventos antes de que ocurran, lo que lo lleva a una desesperación constante sobre el destino inevitable de la humanidad.",
+        "image": "https://i.pinimg.com/736x/cc/e0/e6/cce0e6e0b6b3063bf2f5cd768d370547.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Horus Lupercal",
+        "faction": "fuerzas del caos (primarca traidor de los Hijos de Horus )",
+        "lore": "Horus fue creado por el Emperador de la Humanidad y fue encontrado en el planeta Cthonia, un mundo oscuro y violento. Desde joven, demostró ser un líder natural, carismático y estratégico, lo que lo llevó a convertirse en el Primarca favorito del Emperador. A medida que la Gran Cruzada avanzaba, Horus se ganó la lealtad de sus hermanos y se convirtió en el comandante de las fuerzas de la humanidad. Horus fue el primer Primarca en ser nombrado Warmaster, lo que le otorgó un poder y una autoridad sin precedentes sobre las fuerzas del Imperio. Su éxito en la guerra y su habilidad para unir a las Legiones Astartes lo convirtieron en una figura casi legendaria. Sin embargo, este poder también sembró las semillas de la envidia y la ambición.La caída de Horus comenzó tras su herida en el planeta Davin, donde fue influenciado por las fuerzas del Caos. A medida que se sumergía en la oscuridad, Horus se volvió cada vez más desilusionado con el Emperador y su visión para la humanidad. Convencido de que el Emperador lo había traicionado, decidió rebelarse y liderar una insurrección contra su padre.",
+        "image": "https://i.pinimg.com/736x/19/c8/d0/19c8d08b9fac6ce1667699742e09a4be.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Alpharius Omegon",
+        "faction": "fuerzas del caos (primarca traidor de la Leguion Alpha)",
+        "lore": "Alpharius fue creado por el Emperador de la Humanidad y se le encontró en un mundo que no fue revelado en su totalidad, lo que contribuyó a su aura de misterio. Como el Primarca de la Alpha Legion, su misión era la de ser un guerrero y líder estratégico, pero su enfoque difería significativamente de otros Primarcas. Omegon, su gemelo, fue creado a partir del mismo gen que Alpharius, lo que les confiere una conexión única. Sin embargo, su existencia se mantuvo en secreto, y la naturaleza exacta de su relación y la dinámica entre ellos es un tema de especulación. Alpharius es conocido por su astucia y su enfoque en la guerra no convencional. La Alpha Legion se especializa en la guerra de guerrillas, la infiltración y el engaño, utilizando tácticas de subterfugio para desestabilizar a sus enemigos. Su filosofía se centra en la idea de que el fin justifica los medios, lo que les lleva a tomar decisiones moralmente ambiguas en nombre de la victoria. Ambos Primarcas comparten una mentalidad similar y, a menudo, se intercambian roles, lo que hace que sea difícil para sus enemigos discernir quién es quién. Esta estrategia de confusión y desinformación es una parte integral de su enfoque en la guerra. ",
+        "image": "https://i.pinimg.com/736x/41/6c/66/416c66246f2427dc489b78d4fcc0d2ab.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Lorgar Aurelian",
+        "faction": "fuerzas del caos (primarca traidor de los Portadores de la Palabra)",
+        "lore": "El joven Primarca desapareció del laboratorio genético bajo el Himalaya en Terra cuando aún era un niño, junto a los otros 19 Primarcas, quienes fueron transportados a través de la Disformidad y dispersados a diferentes mundos habitados por humanos en la Galaxia. Después de su secuestro por las fuerzas del Caos fue descubierto por los seguidores de la religión predominante, El Cónclave, una fe dedicada a entidades que de hecho eran los Dioses del Caos en apariencias más benevolentes, y Lorgar fue criado entre ellos. Estudiando dentro de un templo del Cónclave, se convirtió rápidamente en un devoto predicador, de tal forma que su habilidad para la oratoria y el poder de su carisma le ganaron muchos seguidores. Su más incondicional aliado y amigo era el Sumo Sacerdote del Cónclave, Kor Phaeron. Sin embargo, a medida que Lorgar crecía en popularidad entre la gente, los otros miembros de la jerarquía eclesiástica del Cónclave comenzaron a ponerse celosos de él, La juventud del Primarca estuvo plagada de visiones de un poderoso guerrero en una brillante armadura de bronce que llegaba a Colchis, con un cíclope gigantesco vestido con una túnica azul junto a él. En cierto momento, las visiones llegaron a tal intensidad que Lorgar proclamó que el profetizado retorno del único y verdadero Dios de Colchis estaba cerca. Comenzó a predicar la noticia a la gente de Colchis, causando problemas al gobierno del Cónclave a medida que la gente se convertía a sus creencias disidentes. Sus enemigos en El Cónclave vieron en esto la oportunidad que habían estado esperando para eliminar la amenaza que Lorgar era para el status quo, declarándolo Hereje.",
+        "image": "https://i.pinimg.com/736x/b7/22/43/b7224325987a667622267c32f6045736.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Corvus Corax",
+        "faction": "Imperio de la humanidad (primarca de la Guardia del Cuervo)",
+        "lore": "Corax fue creado por el Emperador de la Humanidad y fue encontrado en el planeta Lycaeus, un mundo donde la opresión y la tiranía eran comunes. Desde joven, Corax fue testigo de la brutalidad del régimen que gobernaba su hogar, lo que influyó profundamente en su carácter y su visión del mundo. Se convirtió en un líder de la resistencia, liberando a su pueblo de la tiranía. Corax es conocido por su fuerte sentido de justicia y su deseo de proteger a los oprimidos. Su experiencia como líder de la resistencia lo convirtió en un estratega excepcional y un guerrero formidable. Es un Primarca que valora la libertad y la autonomía, y su enfoque en la guerra se centra en la rapidez, la sorpresa y la infiltración.",
+        "image": "https://warhammeruniverse.com/wp-content/uploads/2024/04/00091-1133697382.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Marneus Calgar",
+        "faction": "Señor de capitulo de los Ultramarines(parte del imperio de la humanidad)",
+        "lore": "Marneus Calgar nació en el mundo de Macragge, el hogar de la Legión de los Ultramarines. Desde joven, mostró un gran potencial como líder y guerrero. Fue seleccionado para ser uno de los Astartes y se convirtió en un destacado miembro de su Legión, ganándose el respeto de sus compañeros por su valentía y habilidades estratégicas. Marneus Calgar es conocido por su fuerte sentido del deber y su compromiso con el Imperio. Es un líder carismático que inspira lealtad entre sus hombres. Su filosofía se basa en el honor, la disciplina y la protección de la humanidad. Calgar es un estratega brillante, y su enfoque en la guerra combina la táctica con la moralidad, buscando siempre hacer lo correcto por el Imperio.Calgar ha liderado a los Ultramarines en numerosas batallas cruciales, defendiendo el Imperio contra las fuerzas del Caos, los Xenos y otras amenazas. Uno de sus momentos más destacados fue durante la Batalla de Macragge, donde demostró su valentía y habilidades tácticas al enfrentar a los tiránidos",
+        "image": "https://i.pinimg.com/736x/6a/7d/7f/6a7d7f21010056ed4ac15334860f8c22.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Luis Dante",
+        "faction": "Señor de capitulo de los Angeles Sangrientos(parte del imperio de la humanidad)",
+        "lore": "Dante nació en el mundo de Baal, el hogar de los Ángeles Sangrientos. Fue reclutado en el Capítulo a una edad temprana y se destacó rápidamente por su valentía y habilidades en combate. Su ascenso dentro de la jerarquía del Capítulo fue meteórico, y se convirtió en uno de los líderes más respetados. Dante es conocido por su fuerte sentido del honor y su compromiso con la humanidad. A pesar de los oscuros secretos que rodean a los Ángeles Sangrientos, él se esfuerza por mantener la nobleza y la dignidad de su Capítulo. Es un líder carismático que inspira lealtad entre sus hombres y es conocido por su capacidad para tomar decisiones difíciles en momentos de crisis. Como Capitán, Dante ha liderado a los Ángeles Sangrientos en numerosas campañas, enfrentándose a diversas amenazas, incluyendo el Caos y los Xenos. Su estilo de combate se centra en la velocidad y la agresividad, utilizando la habilidad de sus tropas para realizar ataques rápidos y devastadores.",
+        "image": "https://pbs.twimg.com/media/F4jPIkLWkAE14no.jpg:large"
+    },
+    {
+        "id": "21",
+        "name": "Azrael",
+        "faction": "Señor de capitulo de los Angeles Oscuros(Parte del Imperio de la Humanidad)",
+        "lore": "Azrael, cuyo nombre completo es Azrael de los Ángeles Oscuros, fue criado en el mundo de Caliban, donde se formó como un guerrero Astartes. Desde joven, mostró un gran potencial y fue elegido para unirse a los Ángeles Oscuros, el primer capítulo creado por el Emperador de la Humanidad. A medida que ascendía en las filas, se convirtió en un líder respetado y un estratega formidable. Azrael, cuyo nombre completo es Azrael de los Ángeles Oscuros, fue criado en el mundo de Caliban, donde se formó como un guerrero Astartes. Desde joven, mostró un gran potencial y fue elegido para unirse a los Ángeles Oscuros, el primer capítulo creado por el Emperador de la Humanidad. A medida que ascendía en las filas, se convirtió en un líder respetado y un estratega formidable.Uno de los aspectos más intrigantes de Azrael es su papel en el secreto del Capítulo sobre la traición de su Primarca, Lion El'Jonson, y la caída de Caliban. Este secreto ha llevado a los Ángeles Oscuros a convertirse en cazadores de herejes, buscando redimirse por los pecados de su pasado. Azrael, como líder, carga con el peso de este secreto y trabaja incansablemente para proteger el honor de su Capítulo.",
+        "image": "https://i.ibb.co/QpL0qGC/azrael-se-or-del-capitulo-de-los-angeles-oscuros.jpg"
+    },
+    {
+        "id": "22",
+        "name": "Logan Grimnar",
+        "faction": "Señor de Capitulo de los Lobos Espaciales(parte del Imperio de la Humanidad)",
+        "lore": "Grimnar es conocido por su naturaleza feroz y su fuerte sentido del honor. Es un líder carismático que inspira lealtad entre sus hombres. A pesar de su temperamento a veces explosivo, también es un estratega astuto que sabe cuándo atacar y cuándo retirarse. Su filosofía se basa en la fuerza, la camaradería y la defensa de los débiles. Como Gran Maestro, Logan ha liderado a los Lobos Espaciales en numerosas campañas, enfrentándose a diversas amenazas, incluyendo el Caos y otras razas Xenos. Su estilo de combate es agresivo y directo, utilizando la fuerza bruta de sus tropas para abrumar al enemigo. Además, es conocido por su habilidad para liderar a sus tropas en combate cuerpo a cuerpo, donde su ferocidad brilla. Como Gran Maestro, Logan ha liderado a los Lobos Espaciales en numerosas campañas, enfrentándose a diversas amenazas, incluyendo el Caos y otras razas Xenos. Su estilo de combate es agresivo y directo, utilizando la fuerza bruta de sus tropas para abrumar al enemigo. Además, es conocido por su habilidad para liderar a sus tropas en combate cuerpo a cuerpo, donde su ferocidad brilla.",
+        "image": "https://i.ibb.co/3dqDcpm/logangrimar-2.jpg"
+    },
+    {
+        "id": "23",
+        "name": "Pedro Kantor",
+        "faction": "Señor de Capitulo de los Puños Imperiales(parte del Imperio de la Humanidad)",
+        "lore": "Kantor nació en el mundo de Rynn, que es el hogar de los Puños Imperiales. Desde su juventud, mostró un gran potencial y fue reclutado en el capítulo, donde se destacó por su valentía y habilidades en combate. Su ascenso a Señor del Capítulo fue resultado de su dedicación y éxito en numerosas campañas. Pedro Kantor es conocido por su fuerte sentido del deber y su compromiso inquebrantable con el Imperio. Es un líder carismático que inspira lealtad entre sus hombres. Su filosofía se basa en la defensa de la humanidad y la protección de los inocentes, así como en la importancia de la disciplina y el sacrificio. Como Señor del Capítulo, Kantor ha liderado a los Puños Imperiales en numerosas campañas a lo largo de la galaxia. Su estilo de combate es metódico y estratégico, utilizando la fortaleza y la determinación de sus tropas para superar las adversidades. Es conocido por su habilidad para organizar defensas efectivas y por su maestría en el uso de armamento pesado.",
+        "image": "https://i.ibb.co/YBtrQs1/pedro-kantor.jpg"
+    },
+    {
+        "id": "24",
+        "name": "Kayvaan Shrike",
+        "faction": "Señor de Capitulo de la Gardia del Cuervo(parte del Imperio de la Humanidad)",
+        "lore": "Shrike nació en el mundo de Deliverance, el hogar de la Guardia del Cuervo. Desde joven, mostró un talento excepcional en el combate y una gran capacidad para la estrategia. Fue reclutado en el capítulo, donde rápidamente se destacó entre sus hermanos por su valentía y habilidades. Kayvaan Shrike es un líder carismático y astuto, conocido por su enfoque en la rapidez y la sorpresa en el campo de batalla. Su filosofía se centra en la guerra de guerrillas, utilizando tácticas de infiltración y emboscadas para desorientar y derrotar a sus enemigos. Cree en la importancia de la adaptabilidad y la astucia en la guerra. Como Señor del Capítulo, Shrike ha liderado a la Guardia del Cuervo en numerosas campañas, enfrentándose a diversas amenazas, incluidos los Xenos y las fuerzas del Caos. Es famoso por su habilidad para coordinar ataques rápidos y precisos, utilizando su equipo especializado para moverse con agilidad y atacar desde las sombras.",
+        "image":"https://i.ibb.co/pPxS3Dk/tumblr-71439d158c4f85759611bd5662530195-313d7c8f-1280.jpg"
+    },
+    {
+        "id": "25",
+        "name": "Kor'sarro Khan",
+        "faction": "Señor de Capitulo de los Cicatrizes Blancas(parte del Imperio de la Humanidad)",
+        "lore": "Sarro Khan nació en el mundo de Chogoris, un planeta montañoso y hostil que influyó en su formación como guerrero. Desde joven, fue parte de una cultura que valoraba la destreza en la batalla y el honor, lo que lo llevó a ser reclutado en los Cicatrices Blancas, donde rápidamente se destacó por su habilidad en el combate y su capacidad para liderar. Khan es un líder apasionado y decidido, conocido por su amor por la velocidad y la guerra rápida. Su filosofía se basa en la movilidad, la sorpresa y la rapidez, reflejando la tradición del capítulo de utilizar motocicletas y vehículos rápidos en el campo de batalla. Cree firmemente en la importancia de la libertad y la independencia, tanto en la guerra como en la vida. Como Señor del Capítulo, Kor Sarro Khan ha liderado a los Cicatrices Blancas en numerosas campañas a lo largo de la galaxia. Utiliza tácticas de ataque rápido y emboscadas, aprovechando la velocidad de sus tropas para desorientar al enemigo. Su estilo de combate es agresivo y dinámico, lo que le permite adaptarse rápidamente a las circunstancias cambiantes del campo de batalla.",
+        "image": "https://i.ibb.co/kcPq1gr/kor-sarro-khan.jpg"
+    },
+    {
+        "id": "26",
+        "name": "Kardan Stronos",
+        "faction": "Señor de Capitulo de los Manos de Hierro(parte del Imperio de la Humanidad)",
+        "lore": "Stronos nació en el mundo de Medusa, el hogar de las Manos de Hierro. Desde joven, fue influenciado por la cultura del capítulo, que valora la mejora cibernética y la fusión entre hombre y máquina. Su formación como guerrero estuvo marcada por un fuerte énfasis en la lógica y la eficiencia. Kardan Stronos es un líder pragmático y racional, conocido por su enfoque en la fuerza y la resistencia. Su filosofía se basa en la superación de las debilidades humanas a través de la tecnología y la mejora cibernética. Cree firmemente en la importancia de la disciplina y el autocontrol, y ve la emoción como una debilidad que debe ser superada.Como Señor del Capítulo, Stronos ha liderado a las Manos de Hierro en numerosas campañas, enfrentándose a diversas amenazas, incluidos los Xenos y las fuerzas del Caos. Utiliza tácticas que enfatizan la potencia de fuego y la fortaleza de sus unidades mecanizadas. Su enfoque en la tecnología le permite maximizar la eficacia de sus tropas en el campo de batalla. ",
+        "image": "https://i.ibb.co/ZKKBd4w/kaardan-stronos.jpg"
+    },
+    {
+        "id": "27",
+        "name": "Adrex Agatone",
+        "faction": "Señor del Capitulo de los Salamandras(parte del Imperio de la Humanidad)",
+        "lore": "Agatone nació en el mundo forja de Nocturne, el hogar de los Salamandras. Desde joven, fue influenciado por la cultura del capítulo, que valora la fortaleza, la valentía y la lealtad. Su formación como guerrero estuvo marcada por un profundo respeto por la vida humana y una dedicación a proteger a los inocentes. Adrex Agatone es un líder carismático y compasivo, conocido por su enfoque en la justicia y la protección de los débiles. Su filosofía se basa en la idea de que los Marines Espaciales son los defensores de la humanidad y que deben utilizar su poder para proteger a los inocentes. Es un ferviente creyente en el valor de la vida y en la importancia de la empatía. Como Señor del Capítulo, Agatone ha liderado a los Salamandras en numerosas campañas, enfrentándose a diversas amenazas, incluidos los Xenos y las fuerzas del Caos. Utiliza tácticas que combinan la fuerza bruta con la estrategia, destacando la importancia de la cohesión y la moral entre sus tropas. Su enfoque en el combate cuerpo a cuerpo y el uso de armas de fuego de alta potencia son características distintivas de su estilo de liderazgo.",
+        "image": "https://i.ibb.co/z8fvRVC/agrax-agatone.jpg"
+    },
+    {
+        "id":"28",
+        "name":"Belisarius Cawl",
+        "faction":"Adeptus Mecanicus(Imperio de la Humanidad)",
+        "lore":"Belisarius Cawl es un genio tecnológico, conocido por su inteligencia y su enfoque casi obsesivo en la investigación y la creación de nuevas tecnologías. Su filosofía se basa en la idea de que el conocimiento es poder y que la humanidad debe siempre avanzar en su comprensión del universo. Aunque es un devoto del Culto Mechanicus, su curiosidad a menudo lo lleva a desafiar las normas establecidas. s conocido por haber diseñado y creado los Primaris Space Marines, una nueva generación de Marines Espaciales que son más fuertes y más efectivos que sus predecesores. Su trabajo ha tenido un impacto significativo en la guerra del Imperio, proporcionando a las fuerzas imperiales una ventaja necesaria en un universo en constante peligro.",
+        "image":"https://i.ibb.co/60dVGRD/belisarius-cawl.jpg"
+    },
+    {
+        "id":"29",
+        "name":"Ghazghkull Mag Uruk Thraka",
+        "faction":"Orkoz",
+        "lore":"Ghazghkull nació en el mundo de Urk, donde se destacó desde joven como un líder entre los Orkos. Su ascenso al poder comenzó cuando fue herido en una batalla, lo que provocó una visión que lo llevó a creer que estaba destinado a unificar a los Orkos y llevarlos a la guerra contra sus enemigos. es conocido por su brutalidad y su carisma. Tiene una fuerte creencia en el poder del Waaagh!, un concepto que representa la energía colectiva de los Orkos cuando están en guerra. Su filosofía se basa en la idea de que los Orkos deben unirse y luchar juntos para ser verdaderamente fuertes. Es un líder que inspira lealtad y temor, y su presencia en el campo de batalla es un símbolo de la ferocidad de los Orkos. es conocido por su brutalidad y su carisma. Tiene una fuerte creencia en el poder del Waaagh!, un concepto que representa la energía colectiva de los Orkos cuando están en guerra. Su filosofía se basa en la idea de que los Orkos deben unirse y luchar juntos para ser verdaderamente fuertes. Es un líder que inspira lealtad y temor, y su presencia en el campo de batalla es un símbolo de la ferocidad de los Orkos.",
+        "image":"https://i.ibb.co/z4hP73f/Ghazghkull-Mag-Uruk-Thraka.jpg"
+    },
+    {
+        "id":"30",
+        "name":"Cato Sicarius",
+        "faction":"Capitan de los Ultramarines (Imperio de la Humanidad)",
+        "lore":"Cato Sicarius nació en el mundo de Macragge, hogar del capítulo de los Ultramarines. Desde joven, mostró un gran potencial como guerrero y líder, lo que lo llevó a ser seleccionado para convertirse en un Marine Espacial. Su dedicación y habilidades excepcionales le permitieron ascender rápidamente a las filas del capítulo. Sicarius es conocido por su orgullo y su fuerte sentido del honor. Es un líder carismático que inspira a sus hermanos a seguirlo en la batalla. Su filosofía se basa en la importancia de la estrategia y la disciplina, y tiene una profunda lealtad hacia el Emperador y el capítulo. A menudo es visto como un símbolo de la nobleza y el heroísmo de los Ultramarines. ha participado en numerosas campañas, ganando fama por su liderazgo en la batalla y su capacidad para superar adversidades. Ha sido responsable de varias victorias clave contra enemigos del Imperio, incluidos los Eldar, los Tyranids y las fuerzas del Caos. Su habilidad táctica lo ha convertido en un comandante respetado y temido.",
+        "image":"https://i.ibb.co/KX7LMSn/cato-sicarius.jpg"
+    },
+
+    {
+        "id":"31",
+        "name":"Santa Celestine",
+        "faction":"Adeptas Sororitas (Imperio de la Humanidad)",
+        "lore":"Se dice que Santa Celestine fue una guerrera excepcional y una líder de las Sisters of Battle (Hermanas de Batalla) que vivió durante la Era de la Oscuridad. Su vida está rodeada de mitos y leyendas, y se la considera una figura que encarna la devoción y el coraje de las mujeres guerreras del Imperio. es vista como un faro de esperanza y fe en un universo sombrío. Su personalidad se caracteriza por una profunda devoción al Emperador y un compromiso inquebrantable con la protección de la humanidad. Es conocida por su capacidad de inspirar a aquellos que la rodean, y su presencia en el campo de batalla a menudo se considera un signo de la intervención divina. participó en numerosas campañas cruciales para el Imperio. Se le atribuye la capacidad de realizar milagros y, a menudo, se la ve acompañada por dos Geminas (guardianas), que son guerreras que luchan a su lado. Su legado incluye la defensa de mundos imperiales y el fortalecimiento de la fe en el Imperio.",
+        "image":"https://i.ibb.co/h99d4Vx/santa-celestine.jpg"
+    },
+
+    {
+        "id":"32",
+        "name":"Inquisidor Eisenhorn",
+        "faction":"Ordos Xenos (Imperio de la Humanidad)",
+        "lore":"Eisenhorn fue un joven inquisidor que ascendió a la prominencia durante sus años de servicio en el Imperio de la Humanidad. Su historia comienza en el planeta Talisman, donde se formó y desarrolló sus habilidades como inquisidor, dedicándose a erradicar las amenazas xenos y herejías. Eisenhorn es conocido por su inteligencia, astucia y un enfoque a menudo poco ortodoxo hacia la justicia. A diferencia de muchos de sus colegas, que son más dogmáticos y rígidos, Eisenhorn tiende a adoptar una perspectiva más flexible, lo que le permite tomar decisiones difíciles en situaciones complejas. Su filosofía se basa en la idea de que, a veces, es necesario utilizar métodos cuestionables para lograr el bien mayor. A lo largo de su carrera, Eisenhorn ha desmantelado numerosas conspiraciones y ha enfrentado a enemigos poderosos, incluyendo a cultos del Caos y diversas razas xenos. Su investigación y acciones han tenido un impacto significativo en la seguridad del Imperio, y su nombre es conocido tanto por sus aliados como por sus enemigos.",
+        "image":"https://i.ibb.co/CH2smxq/eisenhor.jpg"
+    },
+
+    {
+        "id":"32",
+        "name":"Inquisidora Greyfax",
+        "faction":"Ordos Hereticus (Imperio de la Humanidad)",
+        "lore":"Greyfax proviene de un trasfondo militar, habiendo servido en las Sisters of Battle antes de ascender a la posición de inquisidora. Su experiencia en el combate y su dedicación a la causa del Imperio la han llevado a convertirse en una de las inquisidoras más respetadas y temidas. es conocida por su determinación y su enfoque implacable hacia la erradicación de la herejía. Es una líder fuerte, con un sentido agudo de la justicia, pero también es pragmática y dispuesta a hacer lo que sea necesario para proteger al Imperio. Su filosofía se basa en la idea de que la fe y la disciplina son esenciales para mantener la pureza del Imperio. A lo largo de su carrera, Greyfax ha enfrentado numerosas amenazas, incluyendo cultos del Caos y herejías internas. Su trabajo ha sido crucial en la preservación de la estabilidad en varios mundos imperiales. Ha participado en importantes campañas y ha colaborado con otros personajes destacados del Imperio, como Cato Sicarius y Saint Celestine.",
+        "image":"https://i.ibb.co/vL5jJb7/greyfax.jpg"
+    },
+
+    {
+        "id":"33",
+        "name":"Ahriman",
+        "faction":"legion traidora  (los mil hijos)",
+        "lore":"Ahriman nació como un hombre de guerra en el mundo de Prospero, hogar de los Mil Hijos. Fue un destacado psíquico y un brillante estudioso de la magia y la psíquica. Su lealtad a Horacio y a su padre, el Emperador, lo llevó a convertirse en uno de los principales consejeros y líderes de su legión. es un personaje complejo, motivado por un profundo deseo de conocimiento y poder. Su filosofía se basa en la búsqueda de la verdad y la comprensión de los secretos del universo. Sin embargo, su ambición lo llevó a tomar decisiones drásticas, incluyendo la realización de un ritual prohibido para salvar a su legión de la mutación, lo que resultó en su transformación en un psíquico del Caos. Ahriman es conocido por su papel en la traición de los Mil Hijos y su eventual caída en la corrupción del Caos. Su ritual, conocido como el Ritual de la Reunificación, tuvo consecuencias devastadoras, transformando a muchos de sus hermanos en criaturas mutadas y llevándolos a un estado de desesperación. Ahriman se convirtió en un poderoso sorcerer del Caos, buscando redención y poder en su nueva forma.",
+        "image":"https://i.ibb.co/4p40RfB/ariman.jpg"
+    },
+
+    {
+        "id":"34",
+        "name":"Ragnar Blackmane",
+        "faction":"Legion de loS Lobos Espaciales",
+        "lore":"Ragnar nació en el planeta Fenris, un mundo helado y hostil que forja a sus habitantes en guerreros feroces. Desde joven, mostró un gran potencial y habilidades excepcionales en la caza y el combate, lo que lo llevó a ser elegido para convertirse en un Lobo Espacial. Su ascenso dentro del capítulo fue rápido, destacándose en numerosas batallas. Ragnar es conocido por su valentía, ferocidad y un fuerte sentido de lealtad hacia su capítulo y sus hermanos de batalla. Su personalidad es intensa y apasionada, reflejando la cultura de los Lobos Espaciales, que valoran la honra, la camaradería y la lucha. A menudo actúa como un líder nato, inspirando a sus compañeros con su ejemplo en el campo de batalla. A lo largo de su carrera, Ragnar ha participado en numerosas campañas y batallas cruciales, enfrentándose a diversas amenazas, incluyendo a los Eldar, Orkos y fuerzas del Caos. Su habilidad táctica y su ferocidad en combate lo han convertido en una leyenda entre los Lobos Espaciales. Ha sido fundamental en la defensa de Fenris y en la lucha por el Imperio.",
+        "image":"https://i.ibb.co/BzLCzhM/ragnar.jpg"
+
+    },
+
+    {
+        "id":"34",
+        "name":"Eldrad Ulthran",
+        "faction":"Eldar",
+        "lore":"Eldrad nació en el mundo de Ulthwé, uno de los mundos de los Eldar. Desde joven, mostró un talento excepcional para la psíquica, lo que le permitió ascender rápidamente en las filas de su pueblo. Su conexión con el Inmaterium le otorgó visiones del futuro, lo que lo llevó a convertirse en el Farseer más poderoso de su tiempo. Eldrad es un personaje complejo, que a menudo se debate entre la esperanza y la desesperación. Su conocimiento del futuro le otorga una perspectiva única, pero también lo carga con la pesada responsabilidad de guiar a su pueblo. Es conocido por ser pragmático y a veces manipulador, dispuesto a tomar decisiones difíciles para proteger a los Eldar, incluso si eso significa sacrificar a otros. Eldrad ha jugado un papel crucial en múltiples eventos significativos en el universo de Warhammer 40,000. Ha estado involucrado en la lucha contra el Caos, los Orkos y otras amenazas, utilizando su visión del futuro para anticipar movimientos y estrategias. Su intervención ha sido fundamental en la preservación de la raza Eldar, y su influencia se extiende a través de diversas facciones de Eldar.",
+        "image":"https://i.ibb.co/ngzX38R/eldrad.jpg"
+    },
+
+    {
+        "id":"35",
+        "name":"Parceer Taldeer",
+        "faction":"Eldar",
+        "lore":"Parcer Taldeer nació en el mundo de Ulthwé, donde fue entrenado desde joven en las artes psíquicas. Su conexión con el Inmaterium le permitió desarrollar habilidades excepcionales, convirtiéndose en una figura respetada entre los Eldar. Su origen y formación en un mundo que enfrenta constantes amenazas moldearon su carácter y habilidades. Taldeer es conocida por su determinación y su fuerte sentido del deber hacia su pueblo. Es una líder carismática, que combina su sabiduría psíquica con una profunda empatía por su raza. Su filosofía se centra en la protección de los Eldar y la lucha contra las fuerzas del Caos y otras amenazas que buscan destruir su civilización. A lo largo de su vida, Parcer Taldeer ha participado en numerosas campañas y batallas clave, enfrentándose a los enemigos de los Eldar. Su habilidad para prever el futuro y guiar a sus tropas ha sido fundamental en la defensa de su pueblo. Ha trabajado junto a otros personajes destacados de los Eldar, como Eldrad Ulthran, en la lucha por la supervivencia de su raza.",
+        "image":"https://i.ibb.co/wgCXHj0/farseer-taldeer.jpg"
+
+    },
+
+    {
+        "id":"36",
+        "name":"Haarken Wordclaymer",
+        "faction":" legion traidora (la Legion negra)",
+        "lore":"Haarken fue originalmente un miembro de los Marines Espaciales de la Legión de los Ángeles Oscuros. Sin embargo, su lealtad se desvió cuando fue seducido por las fuerzas del Caos, lo que lo llevó a unirse a la Legión Negra. Su transformación de un guerrero leal a un agente del Caos es un reflejo de las tentaciones y corrupciones que afectan a muchos en el universo de Warhammer. es conocido por su ambición y su deseo de poder. Es un líder carismático que inspira a sus tropas con su fervor y determinación. Sin embargo, su naturaleza está marcada por la traición y la brutalidad, reflejando la filosofía de la Legión Negra, que busca la destrucción de todos los que se oponen a ellos. A lo largo de su carrera, Haarken ha participado en numerosas campañas de la Legión Negra, luchando contra las fuerzas del Imperio y otros enemigos. Su habilidad en el combate y su liderazgo han sido fundamentales en varias batallas, y ha contribuido a la expansión de la influencia del Caos en la galaxia.",
+        "image":"https://i.ibb.co/b7nRf6G/haarken-worldclaimer.jpg"
+    },
+
+    {
+        "id":"37",
+        "name":"Kharn el Traidor",
+        "faction":"Legion traidora (Los Devoradores de Mundos)",
+        "lore":"Karn fue originalmente un miembro de la Legión de los Devoradores de Mundos, que era leal al Emperador de la Humanidad durante la Gran Cruzada. Sin embargo, tras la traición de los Marines Espaciales durante la Herejía de Horus, se unió a las fuerzas del Caos, convirtiéndose en un guerrero temido y respetado. Karn es conocido por su naturaleza violenta y su sed de sangre. Es un guerrero que busca el combate por encima de todo, impulsado por un deseo insaciable de matar y destruir. Su filosofía se centra en la gloria del combate y la búsqueda de la muerte en la batalla, lo que lo convierte en un símbolo de la brutalidad de los Devoradores de Mundos. A lo largo de su vida, Karn ha participado en numerosas campañas de la Legión, luchando contra el Imperio y otros enemigos del Caos. Su ferocidad en combate y su liderazgo han llevado a muchas victorias para los Devoradores de Mundos, convirtiéndolo en una figura central en la historia de su legión.",
+        "image":"https://i.ibb.co/v1Z3MTg/kharn.jpg"
+
+    },
+
+    {
+        "id":"38",
+        "name":"Tyfus",
+        "faction":"Legion Traidora (Legion de la Muerte)",
+        "lore":"Typhus fue originalmente un Capitán de los Marines Espaciales de la Guardia de la Muerte, que luchó lealmente durante la Herejía de Horus. Sin embargo, su lealtad se desvió hacia el Caos, donde fue bendecido por Nurgle, el dios de la enfermedad y la putrefacción. Esta transformación lo convirtió en un portador de plagas y lo marcó como un campeón del Caos. Typhus es conocido por su devoción extrema a Nurgle y su amor por la muerte y la enfermedad. Su personalidad es tanto carismática como aterradora, ya que busca propagar la plaga y la desesperación entre sus enemigos. Ve la muerte no como un final, sino como una forma de renovación, un ciclo que debe ser abrazado. A lo largo de su carrera, Typhus ha liderado numerosas campañas para propagar las plagas de Nurgle, enfrentándose a las fuerzas del Imperio y otros enemigos del Caos. Su presencia en el campo de batalla a menudo precede a una ola de enfermedades y desolación, convirtiéndolo en un enemigo temido y respetado.",
+        "image":"https://i.ibb.co/r0ByLJt/typhus.jpg"
+    },
+
+    {
+        "id":"39",
+        "name":"Orikan el Perpetuo",
+        "faction":"Necrones",
+        "lore":"Orikan fue una vez un noble de la antigua civilización necrona antes de su transformación en un ser mecánico. A diferencia de muchos de sus compatriotas, que optaron por el Viaje de la Ascensión, Orikan eligió seguir el camino del conocimiento y la comprensión de las fuerzas del universo, particularmente el tiempo. Esta búsqueda de poder lo llevó a convertirse en un Líder de los Psíquicos de su pueblo. un ser complejo, caracterizado por su ambición y su deseo de comprender el flujo del tiempo. A menudo es visto como arrogante, considerando su conocimiento superior al de otros Necrones. Sin embargo, su comprensión del tiempo también le otorga una perspectiva única sobre el destino y la inevitabilidad de los eventos, lo que lo hace tanto un aliado valioso como un rival peligroso. A lo largo de su existencia, Orikan ha jugado un papel crucial en las campañas de los Necrones para recuperar su antiguo dominio. Su habilidad para manipular el tiempo le permite prever eventos futuros y alterar el curso de las batallas, convirtiéndolo en un estratega formidable. Ha sido fundamental en la reactivación de antiguos templos y en la movilización de fuerzas necronas.",
+        "image":"https://i.ibb.co/m8zg1PK/Orikan-el-perpetuo.jpg"
+    },
+
+    {
+        "id":"40",
+        "name":"Fabius Biles",
+        "faction":"Legion traidora (Hijos del Emperado)",
+        "lore":"Fabius Bile fue originalmente un miembro leal de los Hijos del Emperador, donde se destacó por sus habilidades en la medicina y la biología. Sin embargo, tras la traición de su legión y su caída en el Caos, se convirtió en un renegado, dedicando su vida a la experimentación genética y la creación de nuevas y terribles formas de vida. es conocido por su intelecto agudo y su arrogancia. Su deseo de superar los límites de la biología lo lleva a experimentar con los cuerpos de los Marines Espaciales y otros seres, buscando crear la 'perfección' en sus creaciones. Ve a la humanidad y a sus propios hermanos como meras materias primas para sus experimentos, lo que lo convierte en una figura tanto fascinante como repulsiva. A lo largo de su vida, Fabius Bile ha creado numerosos híbridos y criaturas mejoradas, utilizando tecnología necrona y conocimientos del Caos. Su trabajo ha llevado a la creación de nuevos tipos de Marines Espaciales del Caos, así como a la modificación de sus propios hermanos de batalla. Es conocido por su papel en la creación de los Marines Espaciales de los Hijos del Emperador que han sido mejorados y alterados.",
+        "image":"https://i.ibb.co/0JphHhy/fabius-bile.jpg"
+    },
+
+    {
+        "id":"41",
+        "name":"Trazin el Infinito",
+        "faction":"Necrones",
+        "lore":"Trazyn fue un noble de la antigua civilización necrona antes de su transformación en un ser mecánico. A diferencia de muchos de sus compatriotas, que se centraron en la guerra y la conquista, Trazyn desarrolló una profunda fascinación por la historia, el arte y la cultura. Su deseo de preservar la historia de la galaxia lo llevó a convertirse en un coleccionista insaciable. es conocido por su intelecto agudo y su sofisticación. Es un ser extremadamente astuto y manipulador, que ve el universo como un vasto museo del que desea apoderarse. Su filosofía gira en torno a la preservación de la historia, aunque a menudo lo hace a expensas de otros, considerando a los seres vivos y sus culturas como meros objetos de colección. A lo largo de su existencia, Trazyn ha acumulado una vasta colección de artefactos y seres de valor incalculable, desde reliquias antiguas hasta criaturas exóticas. Su colección a menudo incluye elementos de civilizaciones que han sido destruidas o que han desaparecido, lo que le otorga un estatus casi legendario entre los Necrones. Su obsesión por la preservación de la historia lo ha llevado a intervenir en conflictos para obtener piezas raras para su colección.",
+        "image":"https://i.ibb.co/Wcp0JL0/trazyn.jpg"
+        
+    },
+    {
+        "id":"42",
+        "name":"Saint Sabbad",
+        "faction":"santo del Imperio de la Humanidad",
+        "lore":"Sabbat nació en el mundo de Karak, un planeta en el sector de Sabbat. Desde joven, mostró un profundo sentido de devoción y una fuerte conexión con el Imperio y el Emperador. Su vida cambió drásticamente cuando se convirtió en la líder de una cruzada contra el Caos, tras una serie de eventos que la llevaron a ser vista como una figura profética. Saint Sabbat es conocida por su determinación inquebrantable y su ferviente fe en el Emperador. Su personalidad es carismática, lo que le permite inspirar a otros a unirse a su causa. A menudo se la ve como una figura maternal, guiando y protegiendo a sus seguidores en tiempos de crisis. Su filosofía se centra en la redención y la lucha contra la corrupción, creyendo firmemente en la capacidad de la humanidad para superar las adversidades. A lo largo de su vida, Saint Sabbat lideró varias campañas militares exitosas contra las fuerzas del Caos y otros enemigos del Imperio. Su cruzada, conocida como la Cruzada de Sabbat, fue fundamental para la defensa de numerosos mundos y para la restauración de la fe en el Emperador. Es famosa por su capacidad para unir a diferentes facciones del Imperio, incluyendo a los Adeptus Mechanicus y a las Guardias Imperiales, en una lucha común.",
+        "image":"https://i.ibb.co/nQ7Vv3c/sabbat.jpg"
+    },
+
+    {
+        "id":"43",
+        "name":"Tzeentch",
+        "faction":"Dios del Caos ( Dios de la Magia)",
+        "lore":"Tzeentch es uno de los cuatro grandes dioses del Caos, junto a Khorne, Nurgle y Slaanesh. Se dice que Tzeentch nació de la necesidad de cambio y transformación en el universo. A medida que las civilizaciones luchaban por poder y conocimiento, su influencia creció, convirtiéndose en el patrón de aquellos que buscan la sabiduría y el poder a través de la magia y la manipulación. La naturaleza de Tzeentch está intrínsecamente ligada a la idea de cambio constante. Su poder se alimenta de la ambición, la traición y la búsqueda de conocimiento. Los seguidores de Tzeentch, incluidos los Cultistas de Tzeentch y los Mil hijos, son conocidos por su habilidad en la magia y su deseo de desentrañar los secretos del universo. Tzeentch promete poder y conocimiento a quienes están dispuestos a servirle, aunque a menudo a un alto costo. Tzeentch es el maestro de la magia, y su influencia se manifiesta en la capacidad de alterar la realidad y el destino. Los hechiceros que adoran a Tzeentch a menudo se ven consumidos por su búsqueda de poder, lo que puede llevar a la locura. La esencia de Tzeentch es el cambio, y su reino está lleno de ilusiones, engaños y transformaciones.",
+        "image":"https://i.ibb.co/G0NvwQk/zaet.jpg"
+    },
+
+    {
+        "id":"44",
+        "name":"Korne",
+        "faction":"Dios del caos (Dios de la Guerra y la Muerte)",
+        "lore":"Khorne es una de las cuatro grandes deidades del Caos, junto a Nurgle, Tzeentch y Slaanesh. Se dice que Khorne nació de la violencia y el derramamiento de sangre, convirtiéndose en un símbolo de la brutalidad inherente a la naturaleza humana. Su poder se alimenta de la guerra y el conflicto, y es adorado por aquellos que buscan la gloria en la batalla. A medida que la guerra y la matanza proliferaban en la galaxia, Khorne se volvió más poderoso. Su influencia se extiende a través de los mundos en guerra, donde sus seguidores, conocidos como Khorne Berserkers, luchan sin piedad en su nombre. Khorne premia a quienes derraman sangre en su honor, y sus seguidores creen que cada muerte en combate es un sacrificio que alimenta su poder. Khorne es conocido por su desprecio hacia la traición, la manipulación y la astucia. Valora la fuerza bruta y el combate directo, y su lema es '¡La sangre por la sangre de Khorne!' Sus seguidores buscan la gloria a través de la lucha, y la muerte en combate es vista como la máxima forma de honor.",
+        "image":"https://i.ibb.co/kMj2c63/korne.jpg"
+
+    },
+
+    {
+        "id":"45",
+        "name":"Nurgle",
+        "faction":"Dios del Caos (Dios de la Plaga)",
+        "lore":"Nurgle, conocido como el Gran Padre Nurgle, es una de las cuatro principales divinidades del Caos, junto a Khorne, Tzeentch y Slaanesh. Se dice que Nurgle fue una vez un dios menor, pero a medida que la humanidad comenzó a temer y adorar la muerte y la enfermedad, su poder creció. Nurgle se alimenta de la desesperación y el sufrimiento, y su influencia se extiende por toda la galaxia. A través de los siglos, Nurgle ha acumulado seguidores, incluidos mortales y seres de otros mundos, quienes buscan su favor. Se les promete la inmortalidad y la liberación de las enfermedades del mundo material, aunque a un alto costo. Los seguidores de Nurgle, conocidos como los Plaguebearers, son portadores de plagas y enfermedades, y son un testimonio de su poder. ",
+        "image":"https://i.ibb.co/zFHgp80/nurgle.jpg"
+    },
+
+    {
+        "id":"46",
+        "name":"Slaanesh",
+        "faction":"Dios del Caos (Dios de la Lujiria y el Deseo )",
+        "lore":"Slaanesh nació de la acumulación de deseos insatisfechos y placeres extremos en el universo. Se dice que su origen está ligado a la caída de la civilización Eldar, que, al buscar la satisfacción de sus deseos a través de la hedonismo y la indulgencia, atrajo la atención de esta deidad. Su aparición marcó el inicio de una era de decadencia y corrupción.  se alimenta de la búsqueda del placer y el deseo, atrayendo a aquellos que buscan experiencias intensas y gratificación. Sus seguidores, conocidos como Cultistas de Slaanesh y Demonios de Slaanesh, buscan satisfacer sus deseos más profundos, a menudo a expensas de su propia humanidad. Slaanesh promete a sus seguidores experiencias y sensaciones que van más allá de lo mortal, pero a menudo a un costo terrible. es conocido por su enfoque en el placer, pero también por la idea de que el dolor y el placer están intrínsecamente relacionados. La búsqueda del placer puede llevar a la desesperación y la locura, y muchos de sus seguidores se encuentran atrapados en un ciclo de deseo insaciable. Slaanesh representa tanto la búsqueda de la belleza como la caída en la decadencia.",
+        "image":"https://i.ibb.co/Y73G6SG/slanesh.jpg"
+    },
+
+    {
+        "id":"47",
+        "name":"El Emperador de la Humanidad",
+        "faction":"Imperio de la Humanidad",
+        "lore":"El Emperador nació en la Tierra (Terra) en la antigüedad, hace aproximadamente 48,000 años, durante la era conocida como la Edad de la Tecnología. Se dice que es un ser inmortal, resultado de la unión de miles de psykers humanos, creados para guiar a la humanidad hacia un futuro mejor. Desde su infancia, mostró habilidades excepcionales y un profundo entendimiento de la humanidad y sus potenciales. Durante la Gran Cruzada, el Emperador unió a la humanidad bajo su mando, buscando restaurar el Imperio de la Humanidad y expandir su dominio a través de la galaxia. Para lograrlo, creó a los Primarcas, dieciséis poderosos guerreros diseñados a partir de su propio genoma, cada uno con habilidades únicas. Sin embargo, la traición de Horush, uno de los Primarcas, desencadenó la Herejía de Horus, un conflicto devastador que dividió al Imperio y llevó a la guerra civil. La Herejía de Horus fue un punto culminante en la historia del Emperador. Horus, corrompido por las fuerzas del Caos, se rebeló contra su padre y lideró a varios Primarcas y legiones espaciales en una guerra abierta contra el Imperio. El conflicto culminó en la Batalla de Terra, donde el Emperador se enfrentó a Horus en un duelo final. Aunque el Emperador logró derrotar a su hijo, sufrió heridas mortales en el proceso.",
+        "image":"https://i.ibb.co/j4Q73nv/emperor.jpg"
+        
+    },
+
+    {
+        "id":"48",
+        "name":"Eversor Temple",
+        "faction":"Imperio de la humanidad (Casa Assassinnorum)",
+        "lore":"El Templo Eversor fue creado para llevar a cabo misiones de asesinato y eliminación de objetivos de alto valor. Los asesinos Eversor son utilizados en situaciones donde se requiere una intervención rápida y letal, siendo conocidos por su brutalidad y eficiencia. Su objetivo principal es eliminar a enemigos del Imperio, ya sean líderes xenos, traidores o cualquier amenaza que no pueda ser contenida por medios convencionales. ue creado para llevar a cabo misiones de asesinato y eliminación de objetivos de alto valor. Los asesinos Eversor son utilizados en situaciones donde se requiere una intervención rápida y letal, siendo conocidos por su brutalidad y eficiencia. Su objetivo principal es eliminar a enemigos del Imperio, ya sean líderes xenos, traidores o cualquier amenaza que no pueda ser contenida por medios convencionales. son elegidos entre los más peligrosos y violentos criminales, quienes son sometidos a un riguroso proceso de modificación genética y cibernética. Estos individuos son tratados con una serie de mejoras físicas y psíquicas, convirtiéndolos en máquinas de matar casi imbatibles. Se les implanta un sistema de drogas que les permite aumentar temporalmente su fuerza, velocidad y resistencia, aunque esto a menudo les lleva a un estado de furia incontrolable.",
+        "image":"https://i.ibb.co/R2SrwpM/eversor.jpg"
+    },
+
+    {
+        "id":"49",
+        "name":"Gorko y Morko",
+        "faction":"Dioses de los Orkoz ",
+        "lore":"Gorko es a menudo considerado el dios de la fuerza bruta y la violencia. Se le asocia con la agresión, la guerra y el combate directo. Es visto como un dios que prefiere el enfrentamiento físico y la lucha sin cuartel. Morko, en contraste, es el dios de la astucia y la estrategia. Se le asocia con la inteligencia, la planificación y el engaño. Morko es visto como el dios que prefiere la astucia a la fuerza bruta. ",
+        "image":"https://i.ibb.co/VYtMxR7/gorko-y-morko.jpg"
+    },
+
+    {
+        "id":"50",
+        "name":"Perrito Warhammer",
+        "faction":"master lore de Warhammer 40 k",
+        "lore":" que mas decir , el dios que provee el conocimiento de todo el lore de warhammer",
+        "image":"https://i.ibb.co/17nSW5Q/perrito-warhammer.jpg"
+    }
+    
+]
+
